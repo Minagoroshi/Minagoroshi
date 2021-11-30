@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... urmom
 - 🌱 I’m currently learning ... sex
 - 💞️ I’m looking to collaborate on ... your boobs
-- 📫 How to reach me ... google porn
+- 📫 How to reach me ... send pics of boobs and butt
+- 📱  My discord is top#333
 
 <!---
 Minagoroshi/Minagoroshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
