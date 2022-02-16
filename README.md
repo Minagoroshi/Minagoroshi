@@ -1,13 +1,13 @@
 <img src="https://i.pinimg.com/originals/f2/f4/46/f2f44605a7405cbdcd6f14f03262ead9.gif">
 
-<h2> Hey i'm top :) .</h2>
+<h2> Hey i'm top :) </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 😃 &nbsp; I love modding games and researching security vulnerabilities in other platforms:)
 - 🎓 &nbsp; Looking at attending college at Kent State university majoring in CS
 - 💼 &nbsp; I sell my own products, and do Code-for-Hire to make my money
-- 🌱 &nbsp; Learning more about Low Level programming, and Front End Design .
+- 🌱 &nbsp; Learning more about Low Level programming, and Front End Design 
 
 <h3> 🛠 &nbsp;Tech Skills</h3>
 
