@@ -4,16 +4,17 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 😃 &nbsp; I love modding games and researching security vulnerabilities in other platforms :)
+- 😃 &nbsp; I love modding games and researching security vulnerabilities :)
 - 🎓 &nbsp; Looking at attending college at Kent State university majoring in CS
 - 💼 &nbsp; I sell my own products, and do Code-for-Hire to make my money
-- 🌱 &nbsp; Learning more about Low Level programming, and Front End Design 
+- 🌱 &nbsp; Learning more about Low Level programming, and Front End Design. Right now i'm learning Zig
 
 <h3> 🛠 &nbsp;Tech Skills</h3>
 
 - 💻 &nbsp;
   ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=#ffffff)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=8af3ff)
+  ![Zig](https://img.shields.io/badge/-Zig-333333?style=flat&logo=zig&logoColor=f0b913)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
