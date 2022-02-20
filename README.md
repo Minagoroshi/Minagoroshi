@@ -35,7 +35,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Minagoroshi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minagoroshi&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minagoroshi&theme=buefy&layout=compact" />
 </a>
