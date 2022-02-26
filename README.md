@@ -14,6 +14,7 @@
 - 💻 &nbsp;
   ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=#ffffff)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=8af3ff)
+  ![V](https://img.shields.io/badge/-Vlang-333333?style=flat&logo=V&logoColor=0096FF)
   ![Zig](https://img.shields.io/badge/-Zig-333333?style=flat&logo=zig&logoColor=f0b913)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
