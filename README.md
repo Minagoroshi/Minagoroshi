@@ -16,6 +16,7 @@
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=8af3ff)
   ![V](https://img.shields.io/badge/-Vlang-333333?style=flat&logo=V&logoColor=0096FF)
   ![Zig](https://img.shields.io/badge/-Zig-333333?style=flat&logo=zig&logoColor=f0b913)
+  ![Crystal](https://img.shields.io/badge/-Crystal-333333?style=flat&logo=crystal&logoColor=000000)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
