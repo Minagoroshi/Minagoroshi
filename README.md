@@ -10,7 +10,7 @@
 - 😃 &nbsp; I love modding games and researching security vulnerabilities :)
 - 🎓 &nbsp; Currently pursuing a degree in software engineering
 - 💼 &nbsp; I sell my own products, and do Code-for-Hire to make my money
-- 🌱 &nbsp; Learning more about Low Level programming and Front End Design. Right now i'm learning Zig
+- 🌱 &nbsp; Learning more about Low Level programming and Front End Design. Right now i'm learning Rust
 
 <h3> 🛠 &nbsp;Tech Skills</h3>
 
