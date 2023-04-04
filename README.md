@@ -1,8 +1,3 @@
-
-<p align="center">
-<img src="https://media0.giphy.com/media/QIXbxMLP0eg9Vblgjm/giphy.gif?cid=ecf05e47wfesrfa2ogxj1k1z7y6mpza4hgtwu550yem391qu&rid=giphy.gif&ct=g"/>
-</p>
-
 <h2> Hii i'm top :) </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
