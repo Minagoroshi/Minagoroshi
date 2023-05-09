@@ -2,23 +2,20 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Currently pursuing a degree in software engineering
-- 💼 &nbsp; I sell my own products, and do Code-for-Hire to make my money
-- 🌱 &nbsp; Learning more about Low Level programming and Front End Design. Right now i'm learning Rust
+- 💼 &nbsp; Freelance Developer
+- 🌱 &nbsp; Learning compiler engineering and LLVM
 
 <h3> 🛠 &nbsp;Tech Skills</h3>
 
 - 💻 &nbsp;
   ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=#ffffff)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=8af3ff)
-  ![V](https://img.shields.io/badge/-Vlang-333333?style=flat&logo=V&logoColor=0096FF)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=00FFFF)
-  ![Crystal](https://img.shields.io/badge/-Crystal-333333?style=flat&logo=crystal&logoColor=000000)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=FFA500)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
