@@ -10,7 +10,6 @@
 - 💻 &nbsp;
   ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=#ffffff)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=8af3ff)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=00FFFF)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=FFA500)
   ![C++](https://img.shields.io/badge/C++-333333.svg?style=flat&logo=c%2B%2B)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
