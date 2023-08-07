@@ -1,5 +1,3 @@
-<h2> Hii i'm top :) </h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Freelance developer, probably overloading my plate with projects
