@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Freelance Developer
-- 🌱 &nbsp; Learning compiler engineering and LLVM
+- 💼 &nbsp; Freelance developer, probably overloading my plate with projects
+- 👍 &nbsp; My key interests are programming language design and philosophy, I love exploring new languages
 
 <h3> 🛠 &nbsp;Tech Skills</h3>
 
@@ -12,6 +12,7 @@
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=8af3ff)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=FFA500)
   ![C++](https://img.shields.io/badge/C++-333333.svg?style=flat&logo=c%2B%2B)
+  ![V](https://img.shields.io/badge/vlang-333333.svg?style=flat&logo=v)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
